@@ -1,4 +1,4 @@
-[CustomerSegmentation PySpark Big Data Implementation for Insights ->> Click to access developed Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzJmOWEwNzktOTFmZi00ZmE1LTgxZmMtNGM5Y2MwODI2MjFmIiwidCI6ImVkYjljNTM4LWZlNjYtNGE2OC04YzEwLTc2ZmNhODg4NzQxZCJ9&pageName=ReportSection)
+[CustomerSegmentation PySpark Big Data Implementation for Insights -->> Click to access developed Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzJmOWEwNzktOTFmZi00ZmE1LTgxZmMtNGM5Y2MwODI2MjFmIiwidCI6ImVkYjljNTM4LWZlNjYtNGE2OC04YzEwLTc2ZmNhODg4NzQxZCJ9&pageName=ReportSection)
 
 In this Project we aim to deliver analytics regarding
 1. Customer Insights, exploring customer purchase behavior identifying key-patterns and trends.
